@@ -4,4 +4,4 @@ git is gree sofaware
 git is useful
 test git add
 test git commit
-creating a new branch is quick
+creating a new branch is quick&& simple
